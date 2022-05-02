@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">internet</string>
+    <string name="instance_id_fmt">instance_id_fmt</string>
+</resources>
